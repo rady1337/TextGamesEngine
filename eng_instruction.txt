@@ -1,0 +1,24 @@
+1) Each line in the .txt file must be numbered starting from 0, so the first line will be numbered 0, the second line will be numbered 1, and so on. 
+
+2) after the line number you need to put "--", it should look like "0--text" 
+
+3) After "--" you need to start writing the text that should be there without a space(in the same version, specify the options for the move, if they are not, then do not specify). 
+
+4) If you have the option, after the text write " if " and then write on which line will move the program in the variant, it should look something like "0--text 1) Exit 2) Hello if 1 3" 
+
+5) If the player has no need to choose, after the text write "next" and the line number where the program goes, it should look like this "0--text 5 next". 
+
+6) If, after executing this line the program ends, you should write "exit" after the text, it should look something like "5--You win!! Thanks for playing exit", then the program will finish its work after this line.
+
+Path to the .txt file "txt/file.txt".
+
+Example:
+
+0--Hello, Its my first text game! next 1
+1--You have to get out of the maze next 2
+2--Menu next 3
+3--1) Start 2) Exit if 5 4 
+4--Thanks for playing!!! exit
+5--1) Right 2) Left if 6 7
+6--You win! next 4
+7-- next 5
