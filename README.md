@@ -6,7 +6,7 @@
 
 # Requirement:
 ```
-python 3.X
+Python 3.X
 ```
 
 # Installation:
