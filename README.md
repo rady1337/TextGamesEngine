@@ -29,8 +29,8 @@ python3 engine.py
 ```
 
 # Instructions in the repository
-## [eng_instruction.txt]:https://github.com/rady1337/TextGamesEngine/blob/master/eng_instruction.txt (clickable)
-## [rus_instruction.txt]:https://github.com/rady1337/TextGamesEngine/blob/master/rus_instruction.txt (кликабельно)
+## [eng_instruction.txt](https://github.com/rady1337/TextGamesEngine/blob/master/eng_instruction.txt) (clickable)
+## [rus_instruction.txt](https://github.com/rady1337/TextGamesEngine/blob/master/rus_instruction.txt) (кликабельно)
 
 
 # Path to the .txt file "txt/file.txt".
